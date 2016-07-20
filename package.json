@@ -2,7 +2,7 @@
   "name": "m101x-project",
   "version": "1.0.0",
   "description": "M101x Course Code",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
